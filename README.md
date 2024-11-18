@@ -3,8 +3,8 @@
 ![Photo with Mulcher](Images/Assembly%20With%20Mulcher.jpg)
 
 This assembly is designed to adapt a standard brown paper lawn bag to the [Worx WG430 Electric Leaf Mulcher](https://www.worx.com/electric-leaf-mulcher-wg430.html).
-The provided mulcher stand is good for connecting black plastic lawn bags but is too wide to accomodate standard (12x16x34 inch) [brown paper lawn bags](https://www.lowes.com/pd/Lowe-s-5-Count-30-Gallons-Brown-Tan-Outdoor-Paper-Lawn-and-Leaf-Trash-Bag/5013024901).
-This design elevates the mulcher to accomodate the increased height of the paper bags and provides a bag-mounting feature small enough to accomodate the paper bags without needing to stretch them.
+The provided mulcher stand is good for connecting black plastic lawn bags but is too wide to accommodate standard (12x16x34 inch) [brown paper lawn bags](https://www.lowes.com/pd/Lowe-s-5-Count-30-Gallons-Brown-Tan-Outdoor-Paper-Lawn-and-Leaf-Trash-Bag/5013024901).
+This design elevates the mulcher to accommodate the increased height of the paper bags and provides a bag-mounting feature small enough to accommodate the paper bags without needing to stretch them.
 
 ## Design
 
@@ -20,7 +20,7 @@ The underside of the ring has a circular channel for the paper bag to fit in to,
 
 The design was developed in Solidworks 2024 and all custom parametric files are available in this repository. Reference models for hardware were taken from the McMaster-Carr website (see the [gitignore](.gitignore) or open the [assembly](Lawn%20Bag%20Adapter.SLDASM) in Solidworks for a list of McMaster parts used in the assembly model)
 
-> Detailed design notes are available on the [Burks Builds Blog](https://burksbuilds.com/other/work-mulcher-paper-bag-adapter/)
+> Detailed design notes are available on the [Burks Builds Blog](https://burksbuilds.com/crafting/worx-mulcher-paper-bag-adapter/)
 
 ## 3D Print
 
